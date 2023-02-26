@@ -1,0 +1,7 @@
+notes.txt
+.idea
+blog.db
+poetry.lock
+pyproject.toml
+__pycache__/
+.env
